@@ -1,5 +1,5 @@
-# The Climb # 
-
+# **_The Climb_** # 
+---
 ## I. High Concept  ##
 + A verticle, endless runner(ish) with platforms.
 + Ninja Jump meets Mario
@@ -10,7 +10,7 @@
 + Endless runner (ish)
 + Platform
 ## III. Platform ##
-+ Desktop game designed for keyboard but hoping for a Mobile port
++ Mobile game thats also available on computer.
 ## IV. Story ## 
 + There is no story. 
 + The characters motivation is to avoid the growing darkness from below that progresses faster the longer the game gets.
@@ -38,6 +38,7 @@
 + The driving point for this game will be the social aspect with multiplayer static maps with the competion being to see who can get the highest and/or most points.
 + There is still an offline mode for casual, time killer gameplay. These maps will be generated randomly for every run/climb coins earned here can be used for purchasing items for multiplayer.
 + The items will be mostly cosmetics with some one-use buffs for single player modes only.
++ Art Style and Music currently undecided. Unknown if pixelated or cartoonish for the graphical style and the type of music will be 8-bit or not depends on the graphical style. 
 ## IX. About the Devs ##
 + Name: Phoenix Feldman
 + Major: New Media Interactive Development
