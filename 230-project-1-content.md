@@ -6,6 +6,7 @@
 ## II. Genre ##
 + Action
 + Casual
++ Competitive
 + Endless runner (ish)
 + Platform
 ## III. Platform ##
@@ -37,3 +38,19 @@
 + The driving point for this game will be the social aspect with multiplayer static maps with the competion being to see who can get the highest and/or most points.
 + There is still an offline mode for casual, time killer gameplay. These maps will be generated randomly for every run/climb coins earned here can be used for purchasing items for multiplayer.
 + The items will be mostly cosmetics with some one-use buffs for single player modes only.
+## IX. About the Devs ##
++ Name: Phoenix Feldman
++ Major: New Media Interactive Development
++ Minor: Game Design and Development (undeclared as of writting this)
++ Year: Second Year
++ Skills:
+  + Photoshop
+  + Illustrator
+  + C#
+  + HTML
++ Interests: 
+  + Game development
+  + Competitive and Casual gaming
+  + Music
+  + Gaming physics
+  
